@@ -1,7 +1,7 @@
 # calculator_
 <h1>Лабораторная работа №1 ВСРПП. Выполнил Котович Николай гр. 20ИТ-1.
 <h5><br>Внешний вид калькулятора:<br>
-<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/![image](https://user-images.githubusercontent.com/116580117/206019360-cf609f90-09d4-4751-8206-d3f1eea7b6b0.png)" ><br>
+<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/![Снимок экрана 2022-12-06 234654](https://user-images.githubusercontent.com/116580117/206019736-132e0d00-ba5a-42f4-b5ec-f5f123a75aa5.gif) ><br>
 <br>Выполнены Юнит тесты:<br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/UTests.png" ><br>
 <br>Проект представляет собой обычный калькулятор. Можно использовать сложение, вычитанеи, умножение и деление:<br>
