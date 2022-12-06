@@ -7,7 +7,7 @@
 <br>Проект представляет собой обычный калькулятор. Можно использовать сложение, вычитанеи, умножение и деление:<br>
 <br><img src="https://user-images.githubusercontent.com/116580117/206020971-e6d8d91e-9d3d-4efc-aa8c-a7533cc5cb06.png" ><br>
 <br>Если нужно, можно изменить знак числа с помощью кнопки "+/-:"<br>
-<br><img src="https://user-images.githubusercontent.com/116580117/206020849-f995f4e2-82a6-4048-a51f-50a65bdafea3.png" ><br>
+<br><img src="https://user-images.githubusercontent.com/116580117/206021394-8ace253a-d0c4-4825-9473-1917e0f1425a.png" ><br>
 <br>Для примера введём число "23"и прибавим к нему "-3".<br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/1.png" ><br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/2.png" ><br>
