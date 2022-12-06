@@ -14,9 +14,9 @@
 <br>Нажав на кнопку "="должно получится "20" (20+(-3)=20).<br>
 <br><img src="https://user-images.githubusercontent.com/116580117/206022611-944288bb-b893-4a38-9a55-170cdca03921.png" ><br>
 <br>Не вводя заново полученное число, разделим его на "5", умножим на "2" и нажмём кнопку "=".<br>
-<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/4.png" ><br>
-<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/5.png" ><br>
-<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/6.png" ><br>
+<br><img src="https://user-images.githubusercontent.com/116580117/206022744-fa796657-ddff-4956-843e-a75c92821740.png" ><br>
+<br><img src="https://user-images.githubusercontent.com/116580117/206022807-8cca7ae8-f51f-499a-af24-14643e6150f6.png" ><br>
+<br><img src="https://user-images.githubusercontent.com/116580117/206022893-bb06c678-b468-4316-815e-fad64b7e687f.png" ><br>
 <br>Получилось число "8" (20/5*2=8).<br>
 <h1>Классы
   <h6>
