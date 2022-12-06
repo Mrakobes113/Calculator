@@ -9,8 +9,8 @@
 <br>Если нужно, можно изменить знак числа с помощью кнопки "+/-:"<br>
 <br><img src="https://user-images.githubusercontent.com/116580117/206021394-8ace253a-d0c4-4825-9473-1917e0f1425a.png" ><br>
 <br>Для примера введём число "23"и прибавим к нему "-3".<br>
-<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/1.png" ><br>
-<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/2.png" ><br>
+<br><img src="https://user-images.githubusercontent.com/116580117/206022328-576e7c8f-4182-4b56-b127-57097c9cbf86.png" ><br>
+<br><img src="https://user-images.githubusercontent.com/116580117/206022395-b8c0317e-1a6e-45ae-9c8b-3b0dfe24c8e0.png" ><br>
 <br>Нажав на кнопку "="должно получится "20" (20+(-3)=20).<br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/3.png" ><br>
 <br>Не вводя заново полученное число, разделим его на "5", умножим на "2" и нажмём кнопку "=".<br>
