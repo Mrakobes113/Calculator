@@ -10,9 +10,9 @@
 <br><img src="https://user-images.githubusercontent.com/116580117/206021394-8ace253a-d0c4-4825-9473-1917e0f1425a.png" ><br>
 <br>Для примера введём число "23"и прибавим к нему "-3".<br>
 <br><img src="https://user-images.githubusercontent.com/116580117/206022328-576e7c8f-4182-4b56-b127-57097c9cbf86.png" ><br>
-<br><img src="https://user-images.githubusercontent.com/116580117/206022395-b8c0317e-1a6e-45ae-9c8b-3b0dfe24c8e0.png" ><br>
+<br><img src="https://user-images.githubusercontent.com/116580117/206022558-d22327eb-fe22-4056-a68d-ecf9bc3c52e5.png" ><br>
 <br>Нажав на кнопку "="должно получится "20" (20+(-3)=20).<br>
-<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/3.png" ><br>
+<br><img src="https://user-images.githubusercontent.com/116580117/206022611-944288bb-b893-4a38-9a55-170cdca03921.png" ><br>
 <br>Не вводя заново полученное число, разделим его на "5", умножим на "2" и нажмём кнопку "=".<br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/4.png" ><br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/5.png" ><br>
